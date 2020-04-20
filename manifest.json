@@ -1,7 +1,7 @@
 {
-    "name": "World Clock",
+    "name": "Smart todo",
     "version": "1.2",
-    "description": "Extension for world clock",
+    "description": "Extension for managing your tasks efficiently",
     "manifest_version": 2,
     "background": {
         "scripts": [
